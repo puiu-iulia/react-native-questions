@@ -1,5 +1,5 @@
 # react-native-questions
-Most common React Native interview questions
+### Most common React Native interview questions
 
 <details>
   <summary>What is React Native?</summary>

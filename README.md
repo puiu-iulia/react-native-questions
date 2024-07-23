@@ -14,3 +14,8 @@
   <br>
   Expo is the official React Native framework that speeds up the development process with features like Expo Go, OTA updates, and the managed workflow. It is open-source (the same as React Native) but the setup is much easier and straightforward than with bare React Native. However, it's not as flexible as React Native but with tools such as Expo Dev Client, you can achieve almost the same level of control and flexibility as with React Native.
 </details>
+<details>
+  <summary>How is React different from React Native?</summary>
+  <br>
+  React Native extends the React library, making it possible to build native mobile applications using web technologies meaning React is tailored for web development, while React Native is for building iOS and Android applications. Also, React uses the browser's DOM for visualization, whereas React Native achieves a parallel outcome through native platform rendering.
+</details>
